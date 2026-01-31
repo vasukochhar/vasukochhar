@@ -11,7 +11,7 @@ Computer Science student at Manipal University Jaipur, focused on building **AI-
 - Cloud-native architecture, automation, and performance optimization  
 - AI governance, agent safety, and regulatory-aligned systems  
 
-I enjoy working at the intersection of **engineering, AI, and responsibility** — building systems that are not just powerful, but trustworthy.
+I enjoy working at the intersection of **engineering, AI, and responsibility** , building systems that are not just powerful, but trustworthy.
 
 ---
 
