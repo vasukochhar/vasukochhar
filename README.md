@@ -11,7 +11,7 @@ Computer Science student at Manipal University Jaipur, focused on building **AI-
 - Cloud-native architecture, automation, and performance optimization  
 - AI governance, agent safety, and regulatory-aligned systems  
 
-I enjoy working at the intersection of **engineering, AI, and responsibility** , building systems that are not just powerful, but trustworthy.
+I enjoy working at the intersection of **engineering, AI, and responsibility**, building systems that are not just powerful, but trustworthy.
 
 ---
 
@@ -61,6 +61,12 @@ The goal: **Make advanced AI systems governable, auditable, and safe by default.
 
 ---
 
+## 💻 Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=python,java,js,ts,nodejs,express,react,nextjs,spring,postgres,mongodb,redis,firebase,aws,docker,git,linux)
+
+---
+
 ## ✍️ Beyond Code
 
 By day, I engineer systems.  
@@ -72,5 +78,6 @@ Always building. Always learning. Always creating.
 
 ## 📫 Let’s Connect
 
-- LinkedIn:https://www.linkedin.com/in/vasu-kamal-kochhar-3b4433288/  
-- GitHub: You’re already here 🙂
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-kamal-kochhar-3b4433288/)
+
+GitHub: You’re already here 🙂
