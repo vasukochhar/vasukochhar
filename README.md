@@ -42,9 +42,9 @@ Led a 5-member international team under the Global Academic Internship Program:
 
 ---
 
-## 🛡️ Currently Building: Anchor8.ai
+## 🛡️ Currently Building: Anchorate
 
-Co-founder & CEO at **Anchor8.ai**, an **AI Agent Governance & Assurance** platform.
+Co-founder & CEO at **Anchor8.net**, an **AI Agent Governance & Assurance** platform.
 
 My work here focuses on:
 - Real-time AI agent behavior monitoring  
