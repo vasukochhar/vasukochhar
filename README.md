@@ -27,7 +27,7 @@
 ---
 
 ```yaml
-role      : co-founder @ anchorate  ·  cs (ai & ml) '26 @ manipal university jaipur
+role      : anchorate  ·  cs (ai & ml) '26 @ manipal university jaipur
 interests : agent governance  ·  backend systems  ·  retrieval  ·  orchestration
 status    : shipping to production, writing a novel between deploys
 ```
@@ -43,7 +43,7 @@ Most of what I build is about what happens when an autonomous agent is wrong. Th
 ## work
 
 <details>
-<summary><b>anchorate</b> · co-founder · <code>&lt;200ms</code> <code>claude partner network</code></summary>
+<summary><b>anchorate</b> · <code>&lt;200ms</code> <code>claude partner network</code></summary>
 
 <br>
 
